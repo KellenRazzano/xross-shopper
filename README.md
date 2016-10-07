@@ -1,5 +1,7 @@
-# kbb-chrome
-XrossShopper
+# xross-shopper
+
+# Chrome Web Store extension:
+#  https://chrome.google.com/webstore/detail/camg-xrossshopper/ahdjonlhcnjadhlegogfchnojmjjdgan
 
 Syntax{ - 2016 Hackathon Team 
 
